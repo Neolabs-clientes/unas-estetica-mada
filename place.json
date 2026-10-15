@@ -1,0 +1,344 @@
+{
+ "id": "ChIJ0RYpSzfxQQ0R9VXdAJFEX9I",
+ "types": [
+  "beauty_salon",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "internationalPhoneNumber": "+34 610 33 55 82",
+ "formattedAddress": "Señorío de, Av. Europa, 45200 Illescas, Toledo, España",
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=15158910260327831029&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–20:00",
+   "martes: 9:30–20:00",
+   "miércoles: 9:30–20:00",
+   "jueves: 9:30–20:00",
+   "viernes: 9:30–14:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-10-15T18:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 29,
+ "displayName": {
+  "text": "Uñas Y Estética Mada",
+  "languageCode": "es"
+ },
+ "shortFormattedAddress": "Señorío de, Av. Europa, Illescas",
+ "reviews": [
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCSFZsTkdlRWswY0RkQlJuSlBSWFJDVldsdVVFRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "No puedo estar más contenta con Mada, profesional, perfeccionista y encantadora. Las uñas me han quedado tal y como pedí. Sin duda repetiré!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No puedo estar más contenta con Mada, profesional, perfeccionista y encantadora. Las uñas me han quedado tal y como pedí. Sin duda repetiré!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adriana Martinez",
+    "uri": "https://www.google.com/maps/contrib/111989083526273382086/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRONUIEQjcmowWBG9xKldA4pp9Vw3qCbjJ1nsCSArxpYfFUQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-27T19:05:05.100391214Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCSFZsTkdlRWswY0RkQlJuSlBSWFJDVldsdVVFRRAB&d=17924085&t=1&wv=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCSFZsTkdlRWswY0RkQlJuSlBSWFJDVldsdVVFRRAB!2m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5SlgydEZPRkJHZUd0WVMxbFZXazlvVHpZNWFXYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mada es una manicurista perfeccionista y honesta. Su grado de compromiso con las clientas es inigualable. Sus manicuras duran un mes en perfecto estado, se nota que usa productos de primera calidad y una técnica exquisita!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mada es una manicurista perfeccionista y honesta. Su grado de compromiso con las clientas es inigualable. Sus manicuras duran un mes en perfecto estado, se nota que usa productos de primera calidad y una técnica exquisita!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gemma Lopez",
+    "uri": "https://www.google.com/maps/contrib/111135229586987257407/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNO3IWVc_Wl8PlUqfdo11JW1f0m7_agSJqfwv6QbdJKcCNLSdlGg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-03-09T12:04:04.222480459Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5SlgydEZPRkJHZUd0WVMxbFZXazlvVHpZNWFXYxAB&d=17924085&t=1&wv=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5SlgydEZPRkJHZUd0WVMxbFZXazlvVHpZNWFXYxAB!2m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSamVWVXpRM2wyV25SalEzQnhOMDEyTUU5VmFIYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Una profesional de los pies a la cabeza. Súper cercana, amable y detallista. Siempre atenta a que estés cómoda y no tengas molestia alguna. La recomendaría mil veces.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una profesional de los pies a la cabeza. Súper cercana, amable y detallista. Siempre atenta a que estés cómoda y no tengas molestia alguna. La recomendaría mil veces.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Natalia Rodriguez Ortueta",
+    "uri": "https://www.google.com/maps/contrib/101253516090661546672/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYQjd7ViPKV-_CRW1bTVp1Hfr05oVBrE9gtT3K_kdE3iLlG9zY4A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-28T13:57:51.221369142Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSamVWVXpRM2wyV25SalEzQnhOMDEyTUU5VmFIYxAB&d=17924085&t=1&wv=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSamVWVXpRM2wyV25SalEzQnhOMDEyTUU5VmFIYxAB!2m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUFZsaEVTemxmZEVvMWJITlJaMDFuWVVkTFJsRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Espectacular te las limpia super bien\nY hace las uñas muy hermosas encantada 🥹💖",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Espectacular te las limpia super bien\nY hace las uñas muy hermosas encantada 🥹💖",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Genepaola Sarmiento",
+    "uri": "https://www.google.com/maps/contrib/114141150525631323418/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8s1YxAaaZXasiIpBH5WV2S5Scjvgp9jr-FPVC-EhqPs92SXCr=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-12T07:24:23.722446246Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KUFZsaEVTemxmZEVvMWJITlJaMDFuWVVkTFJsRRAB&d=17924085&t=1&wv=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUFZsaEVTemxmZEVvMWJITlJaMDFuWVVkTFJsRRAB!2m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twUVZXWjNibk14WVRKd1NHUXpNM0JDYkc1eFJHYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Es una profesional, entiende a la perfección lo que le pides y te deja la uñas perfectas!!! Ha sido un gran descubrimiento y sin duda es mi manicurista de referencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es una profesional, entiende a la perfección lo que le pides y te deja la uñas perfectas!!! Ha sido un gran descubrimiento y sin duda es mi manicurista de referencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Durantes García",
+    "uri": "https://www.google.com/maps/contrib/112470407138265989642/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKeCLDFfrWfErqHe6EITck_t9SDyg_fuDMvRLwyqXmoM3e0g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-12T07:14:23.407115443Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twUVZXWjNibk14WVRKd1NHUXpNM0JDYkc1eFJHYxAB&d=17924085&t=1&wv=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twUVZXWjNibk14WVRKd1NHUXpNM0JDYkc1eFJHYxAB!2m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMbIDRdqXAlvPmXykoyb1UfXREOPL_2rZd74Op-oMoKMDt-x1NxJWSxDKN83cdAcxw_WXDAMzQC-1Lr9Bf6fSh8k2aCc9Re3qgWqNHysJ_D4hNhINMzfKEDO_gIWwWZzUziCwI_PSyrYqcJvI57xNJ422Kagl4sLnKBi45mwwNq_QLX2vt2aawsPNj6sM5ogskWtixEg47XtD9pfw5TtxiTtEY3zVucfRrjKSbCiTejZC1zUxeUHd96bHVHeHMMU-AUfiUhL-vVqsdAiTBWswVDWCGnXehtSGq8W46e11KWYUuGJxyUwz9vcGCElvRCAuBG1D94hzXhRYXntr_qujqHRVk7qfu1CbITpBoD8kekVs4yqqJfs7Lfc3vaAQHZp1E7Hd8zb75G43VzRVIN5r_BvCfcmSn0l64ZJ0iqAKGpjpg",
+   "widthPx": 736,
+   "heightPx": 981,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDOBP4ZIVeYrhUF48nW5pID&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOBP4ZIVeYrhUF48nW5pID!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMZfssAnb9sLtQOiQh6pGEdQ4OXlBhQ_thbl-X-LRNXmw2DM76hbRD9VC8R7EiGCga1lODnZguVjTAtxR3knAg39_U2i5kxgNcdSCsxhbTp-WKODtmic_AZvRgm1zK1LnkY6BLxrPFiUa-8ty4j5TdT0K6-8MZ3Vf9a3sODn9BFkyPMxzVTA5665exgDv2dEBEuCZfVODRfK-SCXP-TbAQEaEhGbc8PviBeaJewWcUiTuiqKU4oGKy9_KoDgOjHugV1kjClP_zGQOeY-Pob_ePZvGvJLRd28gKo96pJ3Kz0A1Y0LXFiZr9562wRjaYwDO-8pSJ9iLyY9_rmLaLGNRnJ7Qz2Vc6o21Fs5Hj5HJaiCVf4hlAmwxfUOG9dNBFxggIDg5uEXQgYhj9gfEMKGlYy59A",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICf78Kicg&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf78Kicg!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMa4Ejw58RUYP6wkiJrUVNhOXjPKhkpgo8kaabW-m7J0jCqZOunN3oaazKskKXcEoF8z46XWuPlFLDJGkf9gt2YrzsWlGCtUv-NjpmPOPM9wbbFc7LUNiN2ePmfJEmtnOyByNAHkER8IGgaylb7scaetTWy1cxzCC80uEb23EeFFr2uKrL_GBdq0guXjbI4olCW2oEj7YaUmEU6T3QjNenYTzkSkEz8rWLQCrick8kmpAiT7ChQiCVeUGyHOTBx8VShxXPL9Ph8PQx9FlImB4ifGZ37KStqhnrQlppSQ9vtQssdqIIDB3bp6Bi9IK6eoRspYfHIDRgbFhvsHZ1dvRAQ0oX1DjmkXS8s-VznLYfjMe7rTrv3TWK-KDpAHRwZ7CoaONB3d-HiRNQPdR6otoYsSQF9yTPEWg7rDeRHvIgbl",
+   "widthPx": 736,
+   "heightPx": 828,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADyc5UmzNQxGfP7pcABahn&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfP7pcABahn!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMa8EQSNKGSaz7UiWQO9lLBbmJO8kqDxzBMqDb1YyAIG95Lynm45jfJZml7QwQUVJcxhFHOtJXfcQv8dcBlWNk0bPgy1Cqk-V47t8u5lDnZnNAN6Kwkyr_-FwguBxQX61SD4xGUGoMrZ4iBqNCH6pMGM2ktiAheH7bj_P_hgKG-i1orfFlwJp6viwKLWBlxP-Q4gOQN7q3-B0DjdjN-wyRD_sMneJ-BSZdLjoLDITOfslOVTsI0BHmF87ltRFwgHBZzlKCWohopc-gJiCRgsHAuaHRJeanCywrVwmbFgqvUILMM_ec1R0rHymfjGapot7Xawm9NRnSjSOuZGHtkWG9P7b7pmJPBaxx_fG6iyx1iFuNjCAxWeOeXNTNeQroffIjV2NJmNCbrEzMmjCcFUfsq0r0H7pT-BK18dhcYrM0jG",
+   "widthPx": 736,
+   "heightPx": 1349,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBx8GONDFijZCS-HO1o2K5_&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBx8GONDFijZCS-HO1o2K5_!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMZbYwIYgPQRQO9XE8hIv2sjyd4En7KFZy8-Q7Alfy5mrKJkRwcSaRvk4nhn5h1U1E0u9fmyzs_URzjroFMYsjdnX0JfFSLO-2DI0b_2Gc0l5MFWWnXtBx_1LZkY70o9b0qPOQuSl8qL4KnYx5MCLvseG4zkdgXDRzIH4fjov-dKi-qkvspCKhqQSvHgGA1B1P-UmqPAbwghnA5EmAfVyfxE6-rP9Al4nfkfIRQP7Iy2zpzr_HUFnPs-oo3SgOVMKR_Pu9VeOH1xydbmOi3Nfi5BDqUIm8zhxOjreQXCpNHCzZM6XGNnbcdEcdmWGHzyIEKXaBX5G-ZLB4mIX2LY4oszVDEgo4wFqek0HcZhewhDEh6zjJ5V93bJvNRGClAAP2z73hpUyTNLTVYR68Qrs6fgHDg",
+   "widthPx": 728,
+   "heightPx": 1092,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICf78K0Cg&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf78K0Cg!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMZIthzyu3qiYoxD0J8yYIl-MBkhb9hDJEFp_iY4e89_wnYVCU1e_sl6idgWq0aYj8-5IaEbThQRB0XayX-9FHXfrjVxPgifT7ns-toGWbb20GU9vI24KSpjqmTKgJPOdkfgNbNAiMOnFEU9jo3XVwLA5sWjYLo1Av-lpttqqgeF9cHcWhgph5ilHt2E8wiE3ZrYlHHjq9Zfg1GQp2cc0Bs4UYPM_Qj9em6Yt7fvwNyKlXWORz-xb_iSCimOZFuD2CsiBX2_IuDsiRNHM1vXgvg18yhR2q_uOx4s-f4nDefrXeb3uMNF77A734C00pNMBxK2wvTpvqHrD9oKzdaPgmbX6ZN_XQsctDFjZcl_1DQfHmzCx6gur78OoyBeqde43rxc0-9f1_SricJp8ifgKP2XZJuq8PL7278nKna7sEmYxg",
+   "widthPx": 564,
+   "heightPx": 564,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBk43bjgtsGr4TN6TpmActG&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBk43bjgtsGr4TN6TpmActG!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMbSzleDN9lUpe8pflcsPFp8lZAt5f5gopq2-1pFJBLBfYxuytbhu3C65YzsUQUWPzKlkeLUBTOwXLuLAfh6-hwjJwSuOHI-tO5nwW0cGyAtrolSs558IPTqHQm8begkpPIy0PGwCnnCyNMrYeCxCsDiDKCGS4_U0-u-6ajhO4y3AewoiaZvz1TOKi9kB3UJl9SxzLQUXfyacoqX10JkBZXyt5rnd4fNo4rjbLHvwwaHsbzbM1wL4fKwiu4u2wUAymTOgdoBIiIwUGQrfgTt7iJBixkS0EncQc3buFByIhz-E-DlHiVz-8fVXRkKafUQBJXhjZs7g3WEKTehenSPSUdaJ7zHSmbTnE0HQ8DskQFprvKCEiqywKoTrqVvEBNuXC521fATNLdtlJ4GlCXG7-L8IKXjHKYcupftgnrOYuwQGg",
+   "widthPx": 736,
+   "heightPx": 981,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCrrUwEgxWBPeemRx3RxKRP&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCrrUwEgxWBPeemRx3RxKRP!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMZMPWeJe8AIdxLuEeVtx-f1-N7K0EUQMVfszA6-xc93EMW57IoZsdBJoAT8wv0w4WTYpRqdKQpQ6Gd7U-0BJ7KbLKRvvV9fI4GESDZ65K7erLJzS09Kq6VzpaQ8Bitk2HaD76bA5sCLvWzdnRcYQn4qzZDuV-nou-W2W-2ngn600gEdAtMpTf119SfRGqeidKxdFIui-n7eb7zPyxmnFpfxbsOD3YC_l8e88Z8Y13vrhsMTD7twXf9LoTfYgUEyhu-CpmSFj988f1OiP9VKaa4NN4eIk_F2xhj-o8VDkMOkBfEEBYhlniYmpzodVDq0zKSXw1ia7IAiIxTHkKkJdWMUdJkGVWmcRhy4UQYMbNr3fjeygRgLq2dlMb-g463l-CshNWd5Ba5-imnttsJn5jR8yy_g_C2acI-s067KzX0yAQ",
+   "widthPx": 736,
+   "heightPx": 981,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCDFuU2JrT1Gtvqxzkp4Myk&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCDFuU2JrT1Gtvqxzkp4Myk!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMZlgPNyBRypyoxEW1oFHKT7okz1meeEA6moZfCSYirxeVawZ5mv0oqdRGmtR-opVMm64q6kI-Hf8YlRlUzAXRIskBoxwbPlTXuFPegxA6vAMameybF3s-K2sZPtk9D9df-KOOa9nvhyJBie_EwEoWifTN-bCtDuKjv-IBLcbJyk4OBqmfwOrJRWlK0ZLC9lW3hu24zf8FDV79nl6xfitmKCFFwwhTqp-cM-IroDTmZR4GLbiDeRYIe1P7CaXtq9050z3ANnMhhP315xYlg9Ur9Qj6k6EWzoH3K0BqM6DAsuaZmOe6IenD_WTRaS-79TNf-g1ezMJh4sgdJTyHffFT5w0biM7mla8jh9cxhBX0VVU1dPloGYV-pdLMZnxeOp838pVxr9fsy8LazYhmAnSom6HbxqLR7EWK0Hm-THi4uTKw",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Genepaola Sarmiento",
+     "uri": "https://maps.google.com/maps/contrib/114141150525631323418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8s1YxAaaZXasiIpBH5WV2S5Scjvgp9jr-FPVC-EhqPs92SXCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDLRtStTx4ma-yxZx97YfXm&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDLRtStTx4ma-yxZx97YfXm!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  },
+  {
+   "name": "places/ChIJ0RYpSzfxQQ0R9VXdAJFEX9I/photos/Aa-ngMaL_jA8_VmdZeiIS9zo5It68N7CnjdC6F5x2vIFvw8aFnoaA9EJJ30E5XwYFjymzJvcyOFKDwP8aALV8uTxywaDqy497rL-F8XTs7NMfRLZqkjXenSWTOmmand8mH3EXkUXgLxodAKZm9GqMQWcM24oR3wyVLB1v6-zNkgVMwmW51MGFMNNfe9l_Mnt_g6CVHnlrxx5rPQNlKJ4pDb4eatlagLlunJjUhkUF3hyjKUYFT5fh8oZqS2gZ2yXDCiL20xAx25vq2yga4r3rGh7ya-8li8AvSmzdaoDgNEdRPKXlLTLzXgUJxld-mWqCLsostx0t-had23FmpvfcZblJQXB5fRLdofTF_zSq8vR7hmuG938WhE4e0JRoQ5W80wSKNrWiFkOmb2daGPwDAVdKq-jzeIow3UlhJlT2X47lGD_",
+   "widthPx": 736,
+   "heightPx": 978,
+   "authorAttributions": [
+    {
+     "displayName": "Uñas Y Estética Mada",
+     "uri": "https://maps.google.com/maps/contrib/117107068122343638548",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWwzLUSV_qL_V6KUKyDAG4Vb7VxufDRs_kUKL7ZNC2Cg_FSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhABN6aQS0uy83Ip7hHlLOxp&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhABN6aQS0uy83Ip7hHlLOxp!2e10!4m2!3m1!1s0xd41f1374b2916d1:0xd25f449100dd55f5"
+  }
+ ]
+}
