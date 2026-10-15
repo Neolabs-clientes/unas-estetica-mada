@@ -185,6 +185,11 @@ section{padding:clamp(56px,9vw,116px) 0;position:relative}
   .hero .acciones .btn{justify-content:center}
   .flota{padding:11px 15px;font-size:13.5px;right:12px;bottom:12px}
 }
+@media(max-width:700px){
+  .flota{padding:14px;width:56px;height:56px;justify-content:center;gap:0}
+  .flota span{display:none}
+  .flota .ico-wa{width:26px;height:26px}
+}
 /* ---------- revelado ---------- */
 .rev{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
 .rev.visto{opacity:1;transform:none}
