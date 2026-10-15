@@ -105,18 +105,16 @@ section{padding:clamp(56px,9vw,116px) 0;position:relative}
 .curso .cartel img{border-radius:3px;box-shadow:0 24px 60px rgba(0,0,0,.45);max-height:640px;width:auto;margin:0 auto}
 @media(max-width:880px){.curso .wrap{grid-template-columns:1fr}}
 /* ---------- trabajos ---------- */
-.gal{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:clamp(28px,4vw,48px)}
+.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:clamp(28px,4vw,48px)}
 .gal figure{position:relative;overflow:hidden;border-radius:2px;background:var(--topo-claro);cursor:zoom-in}
-.gal img{width:100%;height:100%;object-fit:cover;transition:transform .6s ease;aspect-ratio:1}
-.gal figure:nth-child(1),.gal figure:nth-child(6){grid-column:span 2;grid-row:span 2}
-.gal figure:nth-child(1) img,.gal figure:nth-child(6) img{aspect-ratio:1}
+.gal img{width:100%;height:100%;object-fit:cover;transition:transform .6s ease;aspect-ratio:4/5}
 .gal figure:hover img{transform:scale(1.06)}
 .gal figcaption{position:absolute;inset:auto 0 0 0;background:linear-gradient(transparent,rgba(28,21,18,.75));
   color:#fff;padding:26px 14px 12px;font-size:13px;opacity:0;transition:.3s}
 .gal figure:hover figcaption{opacity:1}
-@media(max-width:880px){.gal{grid-template-columns:1fr 1fr}.gal figure:nth-child(1),.gal figure:nth-child(6){grid-column:span 2;grid-row:auto}}
-@media(max-width:560px){.gal{grid-template-columns:1fr}
-  .gal figure:nth-child(1),.gal figure:nth-child(6){grid-column:span 1}}
+@media(max-width:880px){.gal{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.gal{grid-template-columns:1fr 1fr;gap:8px}
+  .gal figcaption{opacity:1;font-size:11.5px;padding:18px 10px 8px}}
 /* ---------- visor ---------- */
 .visor{position:fixed;inset:0;background:rgba(20,15,12,.94);display:none;place-items:center;z-index:200;padding:20px}
 .visor.on{display:grid}
@@ -126,7 +124,7 @@ section{padding:clamp(56px,9vw,116px) 0;position:relative}
 .visor .ant{left:10px;top:50%;transform:translateY(-50%)}
 .visor .sig{right:10px;top:50%;transform:translateY(-50%)}
 /* ---------- opiniones ---------- */
-.opis{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(16px,2vw,26px);margin-top:clamp(28px,4vw,46px)}
+.opis{display:grid;grid-template-columns:repeat(2,1fr);gap:clamp(16px,2vw,26px);margin-top:clamp(28px,4vw,46px)}
 .opi{background:var(--marfil);border:1px solid var(--linea);padding:clamp(22px,2.4vw,30px);display:flex;flex-direction:column;gap:14px}
 .opi .estrellas{font-size:15px}
 .opi p{font-size:16px;font-family:var(--serif);font-style:italic;color:var(--tinta-suave);max-width:none}
